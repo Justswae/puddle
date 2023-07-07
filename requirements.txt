@@ -1,7 +1,6 @@
 aiohttp==3.8.4
 aiosignal==1.3.1
 appdirs==1.4.4
-apt-clone==0.2.1
 apturl==0.5.2
 asgiref==3.5.2
 asttokens==2.2.1
@@ -9,9 +8,7 @@ async-generator==1.10
 async-timeout==4.0.2
 attrs==21.2.0
 autopep8==1.4.4
-Babel==2.8.0
 backcall==0.2.0
-beautifulsoup4==4.10.0
 beniget==0.4.1
 blinker==1.4
 Bottleneck==1.3.2
@@ -37,10 +34,8 @@ debugpy==1.6.4
 decorator==4.4.2
 defer==1.0.6
 defusedxml==0.7.1
-discord.py==2.1.1
 distro==1.7.0
 Django==4.1.1
-django-crispy-forms==2.0
 docutils==0.19
 entrypoints==0.4
 et-xmlfile==1.0.1
@@ -73,7 +68,6 @@ jupyter_client==7.4.8
 jupyter_core==5.1.0
 keyring==23.5.0
 Kivy==2.1.0
-Kivy-Garden==0.1.5
 kiwisolver==1.4.4
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
@@ -84,8 +78,6 @@ lxml==4.8.0
 lz4==3.1.3+dfsg
 Mako==1.1.3
 MarkupSafe==2.0.1
-matplotlib==3.6.0
-matplotlib-inline==0.1.6
 menulibre==2.2.2
 more-itertools==8.10.0
 mpmath==0.0.0
@@ -96,14 +88,12 @@ netaddr==0.8.0
 netifaces==0.11.0
 numba==0.55.1
 numexpr==2.8.1
-numpy==1.23.3
 oauthlib==3.2.0
 odfpy==1.4.2
 onboard==1.4.1
 openpyxl==3.0.9
 outcome==1.2.0
 packaging==21.3
-pandas==1.5.0
 parso==0.8.3
 pep8==1.7.1
 pexpect==4.8.0
@@ -182,5 +172,4 @@ xdg==5
 xkit==0.0.0
 xlwt==1.3.0
 yarl==1.8.2
-youtube-dl==2021.12.17
 zipp==1.0.0
